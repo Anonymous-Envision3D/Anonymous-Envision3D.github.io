@@ -45,7 +45,9 @@ body {
 .video-container {
     position: relative;
     overflow: hidden;
+    flex-direction: column;
     width: 80%;
+    display: flex;
     padding-top: 45%; /* Formula for 16:9 Aspect Ratio: width * 9 / 16 */
 }
 
