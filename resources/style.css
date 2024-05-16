@@ -90,6 +90,39 @@ body {
     padding-top: 0.1%;
 }
 
+.video-container5 {
+    position: relative;
+    overflow: hidden;
+    flex-direction: column;
+    width: 80%;
+    display: flex;
+    /* padding-top: 45%; */
+    /* Formula for 16:9 Aspect Ratio: width * 9 / 16 */
+    padding-top: 8%;
+}
+
+.video-container6 {
+    position: relative;
+    overflow: hidden;
+    flex-direction: column;
+    width: 80%;
+    display: flex;
+    /* padding-top: 45%; */
+    /* Formula for 16:9 Aspect Ratio: width * 9 / 16 */
+    padding-top: 10%;
+}
+
+.video-container7 {
+    position: relative;
+    overflow: hidden;
+    flex-direction: column;
+    width: 80%;
+    display: flex;
+    /* padding-top: 45%; */
+    /* Formula for 16:9 Aspect Ratio: width * 9 / 16 */
+    padding-top: 9%;
+}
+
 
 
 .video-container iframe {
